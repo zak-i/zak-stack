@@ -1,4 +1,4 @@
-# zak stack
+# zak stack [![Netlify Status](https://api.netlify.com/api/v1/badges/2ad3d77e-c465-48e0-9426-bab8fb394c13/deploy-status)](https://app.netlify.com/sites/spiffy-speculoos-99cf7e/deploys)
 BASED OFF OF REMIX KPOP STACK:
 
 Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
