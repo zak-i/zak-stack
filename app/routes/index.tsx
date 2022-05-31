@@ -22,7 +22,7 @@ export default function Index() {
                   ZAK STACK
                 </span>
               </h1>
-              <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
+              <p className="mx-auto mt-6 max-w-lg text-center text-xl text-violet-500 sm:max-w-3xl">
                 in development for zaktech.io
               </p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
